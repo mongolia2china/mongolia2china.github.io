@@ -1,1 +1,7 @@
+### Site Settings ###
+title               : "Mongolia To China"
+description         : Та бүтээгдэхүүн, үйлчилгээгээ Монголоос Хятад руу экспортлохоор судалж байна уу?
+url                 : "https://mongolia2china.com/"
+image               : "https://mongolia2china.com/assets/images/mongolia2china.png"
+baseurl             : ""
 theme: jekyll-theme-minimal
